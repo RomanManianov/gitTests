@@ -4,5 +4,8 @@ public class Main {
     int three = 3;
     int four = 4;
     int five = 5;
-    int six = 6;
+    int six = 3;
+    int seven = 3;
+    int eight = 4;
+    int nine = 4;
 }
